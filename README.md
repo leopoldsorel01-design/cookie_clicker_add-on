@@ -11,12 +11,12 @@ Pour injecter ce bot dans votre partie Cookie Clicker en cours :
 3. Copiez-collez le script suivant puis appuyez sur **Entrée** :
 
 ```javascript
-fetch('https://raw.githubusercontent.com/VOTRE_NOM/CookieBot/main/dist/mod.js')
+fetch('https://raw.githubusercontent.com/leopoldsorel01-design/cookie_clicker_add-on/main/dist/mod.js')
   .then(r => r.text())
   .then(eval);
 ```
 
-> *(Remarque: Il faudra remplacer l'URL par l'URL raw de votre propre dépôt GitHub après publication).*
+
 
 ## Fonctionnalités
 
